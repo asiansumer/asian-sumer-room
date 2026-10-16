@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+.data/
+.wrangler/
+*.sqlite*
+*.db
+*.wav
+*.mp3
+*.m4a
+*.blend*
+*.glb
+*.gltf

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="670" viewBox="0 0 1280 670" role="img" aria-labelledby="title desc">
+  <title id="title">Asian Sumer Room architecture</title>
+  <desc id="desc">Blender exports assets to a React and Three.js browser experience. The room audio coordinator persists through navigation. A Cloudflare Worker serves APIs backed by D1 and R2. Owner editing uses Cloudflare Access and server-side token verification.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#897562"/></marker></defs>
+  <rect width="1280" height="670" rx="16" fill="#faf8f4"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#302820">
+    <text x="40" y="48" font-size="13" letter-spacing="2" fill="#776b60">ASIAN SUMER / THE ROOM</text>
+    <text x="40" y="93" font-size="31">A room, a persistent session, a small backend.</text>
+    <g font-size="12" letter-spacing="1.6" fill="#887563"><text x="40" y="146">AUTHORING</text><text x="353" y="146">VISITOR SESSION</text><text x="934" y="146">HOSTING &amp; CONTENT</text></g>
+    <rect x="40" y="192" width="242" height="208" rx="12" fill="#ece4d7" stroke="#d8cbb8"/>
+    <text x="62" y="231" font-size="24">Blender</text>
+    <g font-size="16" fill="#665c50"><text x="62" y="270">Apartment geometry</text><text x="62" y="300">Baked lighting</text><text x="62" y="330">Named moving parts</text><text x="62" y="360">Rendered overview</text></g>
+    <rect x="353" y="168" width="491" height="415" rx="12" fill="#ffffff" stroke="#d8cbb8"/>
+    <text x="378" y="208" font-size="24">Browser · React + Three.js</text>
+    <rect x="378" y="233" width="441" height="134" rx="8" fill="#f6f3ed"/>
+    <text x="398" y="268" font-size="19">Room navigation + screens</text>
+    <g font-size="16" fill="#665c50"><text x="398" y="298">Authored cameras · object interactions</text><text x="398" y="327">Projected HTML · game · film shelf</text><text x="398" y="349">Device-specific asset budgets</text></g>
+    <rect x="378" y="390" width="441" height="105" rx="8" fill="#e8eeea"/>
+    <text x="398" y="425" font-size="19">Room audio coordinator</text>
+    <g font-size="16" fill="#53655b"><text x="398" y="454">Vinyl / DJ / Demo · one active source</text><text x="398" y="478">Playback survives scene changes</text></g>
+    <text x="378" y="545" font-size="16" fill="#665c50">Local UI state + published content</text>
+    <rect x="934" y="168" width="306" height="100" rx="10" fill="#f0eee9" stroke="#d8cbb8"/>
+    <text x="955" y="200" font-size="19">Owner content editor</text><text x="955" y="228" font-size="15" fill="#665c50">Cloudflare Access</text><text x="955" y="249" font-size="15" fill="#665c50">+ server-side JWT verification</text>
+    <rect x="934" y="319" width="306" height="104" rx="10" fill="#ece4d7" stroke="#d8cbb8"/>
+    <text x="955" y="355" font-size="23">Cloudflare Worker</text><text x="955" y="385" font-size="16" fill="#665c50">Site assets · content · records</text>
+    <rect x="934" y="485" width="142" height="98" rx="10" fill="#fff" stroke="#d8cbb8"/><rect x="1098" y="485" width="142" height="98" rx="10" fill="#fff" stroke="#d8cbb8"/>
+    <text x="954" y="519" font-size="23">D1</text><text x="954" y="547" font-size="15" fill="#665c50">Content</text><text x="954" y="568" font-size="15" fill="#665c50">Game records</text>
+    <text x="1118" y="519" font-size="23">R2</text><text x="1118" y="547" font-size="15" fill="#665c50">Large media</text><text x="1118" y="568" font-size="15" fill="#665c50">Selected assets</text>
+    <g stroke="#897562" stroke-width="2" fill="none" marker-end="url(#arrow)"><path d="M282 286H343"/><path d="M844 371H924"/><path d="M1086 268V309"/><path d="M1035 423V459H1005V475"/><path d="M1135 423V459H1169V475"/></g>
+    <text x="289" y="270" font-size="11" fill="#776b60">Exports</text><text x="860" y="355" font-size="11" fill="#776b60">HTTPS</text>
+    <text x="40" y="630" font-size="14" fill="#776b60">Architecture overview · implementation source and production configuration remain private</text>
+  </g>
+</svg>
